@@ -1,3 +1,23 @@
 #EXTM3U
 #EXTINF:1 tvg-name="Cartoon Network" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids",Channel Name
 http://iptvtree.net:8080/F25093/29838750/18183
+#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Pogo_India_Logo.png/120px-Pogo_India_Logo.png" group-title="Hindi Cartoon",Pogo
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Nickelodeon_India_Logo.png/120px-Nickelodeon_India_Logo.png" group-title="Hindi Cartoon",Nickelodeon
+http://143.244.60.30/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony YAY!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sony_YAY_Logo.png/120px-Sony_YAY_Logo.png" group-title="Hindi Cartoon",Sony YAY!
+http://185.59.221.199:8880/iptv/6BPAHULU29J2J9/108/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Cartoon_Network_India_Logo.png/120px-Cartoon_Network_India_Logo.png" group-title="Hindi Cartoon",Cartoon Network
+http://185.59.221.199:8880/iptv/6BPAHULU29J2J9/107/index.m3u8
+#EXTINF:-1 tvg-id="SonicNickelodeon.in" tvg-name="Sonic Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sonic_Nickelodeon_Logo.png/120px-Sonic_Nickelodeon_Logo.png" group-title="Hindi Cartoon",Sonic Nickelodeon
+http://185.59.221.199:8880/iptv/6BPAHULU29J2J9/110/index.m3u8
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zee_Cinema_Logo.png/120px-Zee_Cinema_Logo.png" group-title="Hindi Movies",Zee Cinema
+https://feed.play.mv/live/1009/U4igJyzIbn/master.m3u8
+#EXTINF:-1 tvg-id="SonyMaxHD.in" tvg-name="Sony Max HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Sony_MAX_Logo.png/120px-Sony_MAX_Logo.png" group-title="Hindi Movies",Sony Max HD
+http://116.202.46.40:9023/SONY_MAX_HINDI/index.m3u8
+#EXTINF:-1 tvg-id="StarGold.in" tvg-name="Star Gold" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Star_Gold_Logo.png/120px-Star_Gold_Logo.png" group-title="Hindi Movies",Star Gold
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Star_Gold/Star_Gold_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|useragent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/B4U_Kadak_Logo.png/120px-B4U_Kadak_Logo.png" group-title="Hindi Movies",B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplexHD.in" tvg-name="Colors Cineplex HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Colors_Cineplex_Logo.png/120px-Colors_Cineplex_Logo.png" group-title="Hindi Movies",Colors Cineplex HD
+https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8

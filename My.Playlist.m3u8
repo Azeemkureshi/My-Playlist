@@ -4,7 +4,7 @@ http://iptvtree.net:8080/F25093/29838750/18183
 #EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Pogo_India_Logo.png/120px-Pogo_India_Logo.png" group-title="Hindi Cartoon",Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Nickelodeon_India_Logo.png/120px-Nickelodeon_India_Logo.png" group-title="Hindi Cartoon",Nickelodeon
-http://143.244.60.30/NICKELODEON/index.m3u8
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415-b/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony YAY!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sony_YAY_Logo.png/120px-Sony_YAY_Logo.png" group-title="Hindi Cartoon",Sony YAY!
 http://185.59.221.199:8880/iptv/6BPAHULU29J2J9/108/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Cartoon_Network_India_Logo.png/120px-Cartoon_Network_India_Logo.png" group-title="Hindi Cartoon",Cartoon Network
